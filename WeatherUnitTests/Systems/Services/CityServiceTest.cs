@@ -8,7 +8,7 @@ using static WeatherUnitTests.Fixtures.CityServiceFixture;
 
 namespace WeatherUnitTests.Systems.Controllers;
 
-public class CityControllerTest
+public class CityServiceTest
 {
     
     [Fact]
